@@ -1,6 +1,6 @@
-## COURSE DESCRIPTION
+## Welcome
 
-Welcome! In MPCS 50101, we provide an immersive introduction to programming for students who may not have prior experience. We will use the Python programming language to explore general-purpose computer programming and algorithmic reasoning, in an object-oriented context.
+In MPCS 50101, we provide an immersive introduction to programming for students who may not have prior experience. We will use the Python programming language to explore general-purpose computer programming and algorithmic reasoning, in an object-oriented context.
 
 Students will learn:
 
@@ -11,14 +11,14 @@ Students will learn:
 5. and the basics of computational efficiency and "big O" notation.
 
 
-## PREREQUISITES
+### Prerequisites
 None.
 
-## COURSE TEXTBOOK
+### Required Textbook
 "Python Programming: An Introduction to Computer Science", 2nd Edition (2010) by John Zelle, published by Franklin, Beedle & Associates.
 
 
-## COURSE CONTENTS
+### Calendar
 
 Week 1: Basic computation, variables, and simple programs; GitHub and coding environment setup.
 Week 2: Iteration, methods, and decision structures.
@@ -32,13 +32,16 @@ Week 9: Algorithm design and Monte Carlo simulations.
 Week 10: Statically-typed languages.
 Week 11: FINAL EXAM.
 
-## OFFICE HOURS & LAB SESSIONS
+### Office Hours and Lab Sessions
 
-TBA.
+Office hours will be available via Google Hangouts as needed.
 
-## GRADING & COURSEWORK
+Lab sessions will be held weekly on Thursdays from 5pm-7pm.
 
-* Homework is worth a total of 40%.  There will be 6 weekly assignments (weeks 1-5, and week 9).  The lowest homework grade will be dropped.
-* The midterm is worth 30% and will cover material through week 5.
+
+### Grading
+
+* Homework is worth a total of 40%.  There will be 6 weekly assignments (assinged during weeks 1-5, and week 9).  The lowest homework grade will be dropped.
+* The midterm is worth 30% will be held during class on Week 6, and will cover material through week 5.
 * The final exam is worth 30%.
 
