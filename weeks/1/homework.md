@@ -27,7 +27,7 @@ Chapter 2, Exercise #8 on page 54.
 
 To turn in your solution:
 
-** Easiest but temporary **
+**Easiest but temporary**
 * Get a Github.com account
 * Create a new repository named "homework", selecting "Create a README file"
 * Create a new file called _week1.py_, and paste your program into it, and save it
