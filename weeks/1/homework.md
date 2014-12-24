@@ -21,11 +21,11 @@ This is Python version 3.4.2
 (If yours says 3.4.1, that's fine too)
 
 
-### 2. Textbook Problem
+### 2. Textbook Problem due Tuesday, January 13, 6:00pm
 
-Chapter 2, Exercise #8 on page 54.
+**Chapter 2, Exercise #8 on page 54.**
 
-To turn in your solution this week, you have two options.  The first is easier but will only work for this week.  The second requires more setup and requires learning a more about Git, but will work every week.
+You must turn in your solution by uploading it to Github.com. For this first week, you have two options.  The first is easier but will only work for this week.  The second requires more setup and requires learning a more about Git, but will work every week, not just for this week.
 
 **Option 1: Easiest but temporary**
 * Get a Github.com account
