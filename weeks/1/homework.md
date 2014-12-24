@@ -21,19 +21,19 @@ This is Python version 3.4.2
 (If yours says 3.4.1, that's fine too)
 
 
-### 2. Textbook Problems
+### 2. Textbook Problem
 
 Chapter 2, Exercise #8 on page 54.
 
-To turn in your solution:
+To turn in your solution this week, you have two options.  The first is easier but will only work for this week.  The second requires more setup and requires learning a more about Git, but will work every week.
 
-**Easiest but temporary**
+**Option 1: Easiest but temporary**
 * Get a Github.com account
 * Create a new repository named "homework", selecting "Create a README file"
 * Create a new file called _week1.py_, and paste your program into it, and save it
 * Email me your Github username or link to your homework repository
 
-** Harder but worthwhile **
+**Option 2: Harder but worthwhile**
 * Get a Github.com account
 * Install Git on your machine or download the [Github App for Mac](mac.github.com) or [for Windows](windows.github.com)
 * Using the app (or git command line), create a new, local repository called "homework"
@@ -41,7 +41,7 @@ To turn in your solution:
 * Write your code in _week1.py1_
 * _Commit_ and then _Sync_ your changes 
 
-How To Check That You've Turned In Your Homework:
+**How To Check That You've Turned In Your Homework**
 
 * Go to your Github repository: https://www.github.com/{username}/homework
 * Do you see a file listed there as _week1.py_?
