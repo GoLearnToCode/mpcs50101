@@ -1,6 +1,6 @@
-## Welcome
+## Concepts of Programming (MPCS 50101)
 
-In MPCS 50101, we provide an immersive introduction to programming for students who may not have prior experience. We will use the Python programming language to explore general-purpose computer programming and algorithmic reasoning, in an object-oriented context.
+In this course, we provide an immersive introduction to programming for students who may not have prior experience. We will use the Python programming language to explore general-purpose computer programming and algorithmic reasoning, in an object-oriented context.
 
 Students will learn:
 
