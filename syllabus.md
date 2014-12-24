@@ -44,4 +44,5 @@ Lab sessions will be held weekly on Thursdays from 5pm-7pm.
 * Homework is worth a total of 40%.  There will be 6 weekly assignments (assinged during weeks 1-5, and week 9).  The lowest homework grade will be dropped.
 * The midterm is worth 30% will be held during class on Week 6, and will cover material through week 5.
 * The final exam is worth 30%.
+* Late work is never accepted.
 
