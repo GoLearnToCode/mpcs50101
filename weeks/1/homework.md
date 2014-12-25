@@ -37,7 +37,7 @@ You must turn in your solution by uploading it to Github.com. For this first wee
 * Install Git on your machine or download the [Github App for Mac](mac.github.com) or [for Windows](windows.github.com)
 * Using the app (or git command line), create a new, local repository called "week1"
 * Open your homework folder in Finder or Explorer, and add a file named _solution.py_ 
-* Write your code in _solution.py1_
+* Write your code in _solution.py_
 * _Commit_ and then _Sync_ your changes 
 
 **How To Check That You've Turned In Your Homework**
