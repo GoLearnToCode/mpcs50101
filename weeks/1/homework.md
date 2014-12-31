@@ -26,19 +26,24 @@ This is Python version 3.4.2
 
 You must turn in your solution by uploading it to Github.com. For this first week, you have two options.  The first is easier but will only work for this week.  The second requires more setup and requires learning a more about Git, but will work every week, not just for this week.
 
-**Option 1: Easiest but temporary**
-* Get a Github.com account
-* Create a new repository named "week1", being sure to select "Create a README file"
-* Create a new file called _solution.py_, and paste your program into it, and save it
-* Email me your Github username or link to your homework repository
+You should choose Option 1 if at all possible.
 
-**Option 2: Harder but worthwhile**
+**Option 1: Harder but worthwhile**
 * Get a Github.com account
+* Email your GitHub username to me: jeffcohen@uchicago.edu
 * Install Git on your machine or download the [Github App for Mac](mac.github.com) or [for Windows](windows.github.com)
 * Using the app (or git command line), create a new, local repository called "week1"
 * Open your homework folder in Finder or Explorer, and add a file named _solution.py_ 
 * Write your code in _solution.py_
 * _Commit_ and then _Sync_ your changes 
+
+
+**Option 2: Easier but temporary**
+* Get a Github.com account
+* Email your GitHub username to me: jeffcohen@uchicago.edu
+* Create a new repository named "week1", being sure to select "Create a README file"
+* Create a new file called _solution.py_, and paste your program into it, and save it
+* Email me your Github username or link to your homework repository
 
 **How To Check That You've Turned In Your Homework**
 
